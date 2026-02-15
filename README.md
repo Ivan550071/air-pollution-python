@@ -33,3 +33,11 @@ Training the model and plotting the final prediction (IMPORTANT NOTE: I still to
 
 # a6_ex6.py:
 This is just a frontend code with Shiny, in the website I display most of the stuff done in the previous files.
+
+# IMPORTANT REQUIREMENTS:
+pandas>=2.0.0
+matplotlib>=3.7.0
+torch>=2.0.0
+scikit-learn>=1.3.0
+shiny>=0.6.0
+shinywidgets>=0.3.0
