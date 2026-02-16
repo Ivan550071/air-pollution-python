@@ -1,5 +1,5 @@
 # air-pollution-python
-Air-Pollution visualization and PM2.5 prediction with Python
+Air-Pollution visualization and PM2.5 prediction with Python (3.13.2)
 
 The main idea of this project is to display a .csv dataset, by using Matplotlib inside the "Shiny" library for Python.
 
